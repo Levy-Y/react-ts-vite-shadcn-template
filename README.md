@@ -16,4 +16,4 @@ npm install
 npx shadcn@latest add button
 ```
 
-## You are all set, now you can start building you app!
+## You are all set, now you can start building your app!
